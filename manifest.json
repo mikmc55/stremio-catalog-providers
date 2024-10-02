@@ -7,7 +7,7 @@
   "background": "https://2ecbbd610840-trakt.baby-beamup.club/public/background.png?ver=0.2.7",
   "catalogs": [
     {
-      "type": "Trakt",  // Updated to capital "T"
+      "type": "Trakt",
       "id": "trakt_list:garycrawfordgc:5308818:added,asc",
       "name": "New Movies",
       "extra": [
@@ -42,7 +42,7 @@
       ]
     },
     {
-      "type": "Trakt",  // Updated to capital "T"
+      "type": "Trakt",
       "id": "trakt_list:garycrawfordgc:20370350:released,asc",
       "name": "New Series",
       "extra": [
@@ -85,13 +85,13 @@
         "movie"
       ],
       "idPrefixes": [
-        "Trakt:"  // Updated to capital "T"
+        "Trakt:"
       ]
     }
   ],
   "types": [],
   "idPrefixes": [
-    "Trakt"  // Updated to capital "T"
+    "Trakt"
   ],
   "behaviorHints": {
     "configurable": true,
